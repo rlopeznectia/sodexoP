@@ -1,0 +1,11 @@
+{
+    "packageDirectories": [
+        {
+            "path": "src",
+            "default": true
+        },
+    ],
+    "namespace": "",
+  "sfdcLoginUrl": "https://sodexo-brs-peru.my.salesforce.com/",
+  "sourceApiVersion": "43.0"
+}
